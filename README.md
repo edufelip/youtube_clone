@@ -1,2 +1,2 @@
-# organizze-clone
-"organizze" app clone for android 
+# youtube-clone
+youtube clone app for android built with java
