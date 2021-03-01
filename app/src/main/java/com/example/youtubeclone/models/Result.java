@@ -1,5 +1,9 @@
 package com.example.youtubeclone.models;
 
-public class Result {
+import java.util.List;
 
+public class Result {
+    public String regionCode;
+    public PageInfo pageInfo;
+    public List<Item> items;
 }
